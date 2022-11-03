@@ -1,0 +1,4439 @@
+[
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "-",
+      "water": "2",
+      "fire": "-",
+      "nature": "-",
+      "electric": "2",
+      "mental": "-",
+      "digital": "2",
+      "melee": "-",
+      "crystal": "-",
+      "toxic": "1/2"
+    }
+  },
+  {
+    "trait": "Attack<T>",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "-",
+      "water": "2",
+      "fire": "-",
+      "nature": "-",
+      "electric": "2",
+      "mental": "-",
+      "digital": "2",
+      "melee": "-",
+      "crystal": "-",
+      "toxic": "1/2"
+    }
+  },
+  {
+    "trait": "Fast Charge",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "-",
+      "water": "2",
+      "fire": "-",
+      "nature": "-",
+      "electric": "2",
+      "mental": "-",
+      "digital": "2",
+      "melee": "-",
+      "crystal": "-",
+      "toxic": "1/2"
+    }
+  },
+  {
+    "trait": "Attack<T>",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "-",
+      "water": "2",
+      "fire": "-",
+      "nature": "-",
+      "electric": "2",
+      "mental": "2",
+      "digital": "2",
+      "melee": "-",
+      "crystal": "-",
+      "toxic": "1/2"
+    }
+  },
+  {
+    "trait": "Attack<T>",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "1/2",
+      "earth": "1/2",
+      "water": "2",
+      "fire": "-",
+      "nature": "-",
+      "electric": "4",
+      "mental": "-",
+      "digital": "2",
+      "melee": "-",
+      "crystal": "-",
+      "toxic": "1/2"
+    }
+  },
+  {
+    "trait": "Attack<T>",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "-",
+      "water": "4",
+      "fire": "1/2",
+      "nature": "2",
+      "electric": "-",
+      "mental": "-",
+      "digital": "2",
+      "melee": "2",
+      "crystal": "1/2",
+      "toxic": "1/4"
+    }
+  },
+  {
+    "trait": "Attack<T>",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "1/2",
+      "water": "-",
+      "fire": "1/2",
+      "nature": "2",
+      "electric": "4",
+      "mental": "-",
+      "digital": "2",
+      "melee": "-",
+      "crystal": "-",
+      "toxic": "-"
+    }
+  },
+  {
+    "trait": "Attack<T>",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "2",
+      "water": "4",
+      "fire": "1/2",
+      "nature": "1/2",
+      "electric": "2",
+      "mental": "-",
+      "digital": "2",
+      "melee": "-",
+      "crystal": "1/2",
+      "toxic": "1/2"
+    }
+  },
+  {
+    "trait": "Attack<T>",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "1/2",
+      "water": "-",
+      "fire": "2",
+      "nature": "1/2",
+      "electric": "-",
+      "mental": "-",
+      "digital": "2",
+      "melee": "-",
+      "crystal": "-",
+      "toxic": "-"
+    }
+  },
+  {
+    "trait": "Attack<T>",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "1/2",
+      "earth": "2",
+      "water": "2",
+      "fire": "-",
+      "nature": "-",
+      "electric": "-",
+      "mental": "-",
+      "digital": "2",
+      "melee": "-",
+      "crystal": "2",
+      "toxic": "1/2"
+    }
+  },
+  {
+    "trait": "Attack<T>",
+    "matchupMap": {
+      "neutral": "1/2",
+      "wind": "-",
+      "earth": "-",
+      "water": "2",
+      "fire": "-",
+      "nature": "-",
+      "electric": "4",
+      "mental": "-",
+      "digital": "4",
+      "melee": "1/2",
+      "crystal": "2",
+      "toxic": "1/2"
+    }
+  },
+  {
+    "trait": "Attack<T>",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "-",
+      "water": "2",
+      "fire": "-",
+      "nature": "-",
+      "electric": "2",
+      "mental": "2",
+      "digital": "4",
+      "melee": "1/2",
+      "crystal": "-",
+      "toxic": "1/2"
+    }
+  },
+  {
+    "trait": "Attack<T>",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "2",
+      "water": "2",
+      "fire": "2",
+      "nature": "-",
+      "electric": "-",
+      "mental": "1/2",
+      "digital": "2",
+      "melee": "2",
+      "crystal": "-",
+      "toxic": "1/4"
+    }
+  },
+  {
+    "trait": "Attack<T>",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "2",
+      "earth": "-",
+      "water": "-",
+      "fire": "-",
+      "nature": "1/2",
+      "electric": "2",
+      "mental": "-",
+      "digital": "2",
+      "melee": "-",
+      "crystal": "-",
+      "toxic": "1/4"
+    }
+  },
+  {
+    "trait": "Attack<T>",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "-",
+      "water": "2",
+      "fire": "-",
+      "nature": "-",
+      "electric": "2",
+      "mental": "-",
+      "digital": "2",
+      "melee": "-",
+      "crystal": "-",
+      "toxic": "1/2"
+    }
+  },
+  {
+    "trait": "Voltaic Charge",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "-",
+      "water": "2",
+      "fire": "-",
+      "nature": "-",
+      "electric": "2",
+      "mental": "-",
+      "digital": "2",
+      "melee": "-",
+      "crystal": "-",
+      "toxic": "1/2"
+    }
+  },
+  {
+    "trait": "Attack<T>",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "-",
+      "water": "2",
+      "fire": "-",
+      "nature": "-",
+      "electric": "2",
+      "mental": "2",
+      "digital": "2",
+      "melee": "-",
+      "crystal": "-",
+      "toxic": "1/2"
+    }
+  },
+  {
+    "trait": "Attack<T>",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "1/2",
+      "earth": "1/2",
+      "water": "2",
+      "fire": "-",
+      "nature": "-",
+      "electric": "4",
+      "mental": "-",
+      "digital": "2",
+      "melee": "-",
+      "crystal": "-",
+      "toxic": "1/2"
+    }
+  },
+  {
+    "trait": "Attack<T>",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "-",
+      "water": "4",
+      "fire": "1/2",
+      "nature": "2",
+      "electric": "-",
+      "mental": "-",
+      "digital": "2",
+      "melee": "2",
+      "crystal": "1/2",
+      "toxic": "1/4"
+    }
+  },
+  {
+    "trait": "Attack<T>",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "1/2",
+      "water": "-",
+      "fire": "1/2",
+      "nature": "2",
+      "electric": "4",
+      "mental": "-",
+      "digital": "2",
+      "melee": "-",
+      "crystal": "-",
+      "toxic": "-"
+    }
+  },
+  {
+    "trait": "Attack<T>",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "2",
+      "water": "4",
+      "fire": "1/2",
+      "nature": "1/2",
+      "electric": "2",
+      "mental": "-",
+      "digital": "2",
+      "melee": "-",
+      "crystal": "1/2",
+      "toxic": "1/2"
+    }
+  },
+  {
+    "trait": "Attack<T>",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "1/2",
+      "water": "-",
+      "fire": "2",
+      "nature": "1/2",
+      "electric": "-",
+      "mental": "-",
+      "digital": "2",
+      "melee": "-",
+      "crystal": "-",
+      "toxic": "-"
+    }
+  },
+  {
+    "trait": "Attack<T>",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "1/2",
+      "earth": "2",
+      "water": "2",
+      "fire": "-",
+      "nature": "-",
+      "electric": "-",
+      "mental": "-",
+      "digital": "2",
+      "melee": "-",
+      "crystal": "2",
+      "toxic": "1/2"
+    }
+  },
+  {
+    "trait": "Attack<T>",
+    "matchupMap": {
+      "neutral": "1/2",
+      "wind": "-",
+      "earth": "-",
+      "water": "2",
+      "fire": "-",
+      "nature": "-",
+      "electric": "4",
+      "mental": "-",
+      "digital": "4",
+      "melee": "1/2",
+      "crystal": "2",
+      "toxic": "1/2"
+    }
+  },
+  {
+    "trait": "Attack<T>",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "-",
+      "water": "2",
+      "fire": "-",
+      "nature": "-",
+      "electric": "2",
+      "mental": "2",
+      "digital": "4",
+      "melee": "1/2",
+      "crystal": "-",
+      "toxic": "1/2"
+    }
+  },
+  {
+    "trait": "Attack<T>",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "2",
+      "water": "2",
+      "fire": "2",
+      "nature": "-",
+      "electric": "-",
+      "mental": "1/2",
+      "digital": "2",
+      "melee": "2",
+      "crystal": "-",
+      "toxic": "1/4"
+    }
+  },
+  {
+    "trait": "Attack<T>",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "2",
+      "earth": "-",
+      "water": "-",
+      "fire": "-",
+      "nature": "1/2",
+      "electric": "2",
+      "mental": "-",
+      "digital": "2",
+      "melee": "-",
+      "crystal": "-",
+      "toxic": "1/4"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "-",
+      "water": "2",
+      "fire": "-",
+      "nature": "-",
+      "electric": "2",
+      "mental": "-",
+      "digital": "2",
+      "melee": "-",
+      "crystal": "-",
+      "toxic": "1/2"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "-",
+      "water": "2",
+      "fire": "-",
+      "nature": "-",
+      "electric": "2",
+      "mental": "2",
+      "digital": "2",
+      "melee": "-",
+      "crystal": "-",
+      "toxic": "1/2"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "1/2",
+      "earth": "1/2",
+      "water": "2",
+      "fire": "-",
+      "nature": "-",
+      "electric": "4",
+      "mental": "-",
+      "digital": "2",
+      "melee": "-",
+      "crystal": "-",
+      "toxic": "1/2"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "-",
+      "water": "4",
+      "fire": "1/2",
+      "nature": "2",
+      "electric": "-",
+      "mental": "-",
+      "digital": "2",
+      "melee": "2",
+      "crystal": "1/2",
+      "toxic": "1/4"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "1/2",
+      "water": "-",
+      "fire": "1/2",
+      "nature": "2",
+      "electric": "4",
+      "mental": "-",
+      "digital": "2",
+      "melee": "-",
+      "crystal": "-",
+      "toxic": "-"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "2",
+      "water": "4",
+      "fire": "1/2",
+      "nature": "1/2",
+      "electric": "2",
+      "mental": "-",
+      "digital": "2",
+      "melee": "-",
+      "crystal": "1/2",
+      "toxic": "1/2"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "1/2",
+      "water": "-",
+      "fire": "2",
+      "nature": "1/2",
+      "electric": "-",
+      "mental": "-",
+      "digital": "2",
+      "melee": "-",
+      "crystal": "-",
+      "toxic": "-"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "1/2",
+      "earth": "2",
+      "water": "2",
+      "fire": "-",
+      "nature": "-",
+      "electric": "-",
+      "mental": "-",
+      "digital": "2",
+      "melee": "-",
+      "crystal": "2",
+      "toxic": "1/2"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "1/2",
+      "wind": "-",
+      "earth": "-",
+      "water": "2",
+      "fire": "-",
+      "nature": "-",
+      "electric": "4",
+      "mental": "-",
+      "digital": "4",
+      "melee": "1/2",
+      "crystal": "2",
+      "toxic": "1/2"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "-",
+      "water": "2",
+      "fire": "-",
+      "nature": "-",
+      "electric": "2",
+      "mental": "2",
+      "digital": "4",
+      "melee": "1/2",
+      "crystal": "-",
+      "toxic": "1/2"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "2",
+      "water": "2",
+      "fire": "2",
+      "nature": "-",
+      "electric": "-",
+      "mental": "1/2",
+      "digital": "2",
+      "melee": "2",
+      "crystal": "-",
+      "toxic": "1/4"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "2",
+      "earth": "-",
+      "water": "-",
+      "fire": "-",
+      "nature": "1/2",
+      "electric": "2",
+      "mental": "-",
+      "digital": "2",
+      "melee": "-",
+      "crystal": "-",
+      "toxic": "1/4"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "-",
+      "water": "2",
+      "fire": "-",
+      "nature": "-",
+      "electric": "2",
+      "mental": "-",
+      "digital": "2",
+      "melee": "-",
+      "crystal": "-",
+      "toxic": "1/2"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "-",
+      "water": "2",
+      "fire": "-",
+      "nature": "-",
+      "electric": "2",
+      "mental": "-",
+      "digital": "2",
+      "melee": "-",
+      "crystal": "-",
+      "toxic": "1/2"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "2",
+      "earth": "1/2",
+      "water": "1/4",
+      "fire": "1/2",
+      "nature": "-",
+      "electric": "2",
+      "mental": "-",
+      "digital": "-",
+      "melee": "-",
+      "crystal": "-",
+      "toxic": "-"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "2",
+      "earth": "1/2",
+      "water": "1/4",
+      "fire": "1/2",
+      "nature": "-",
+      "electric": "2",
+      "mental": "-",
+      "digital": "-",
+      "melee": "-",
+      "crystal": "-",
+      "toxic": "-"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "2",
+      "earth": "1/2",
+      "water": "1/4",
+      "fire": "1/2",
+      "nature": "-",
+      "electric": "2",
+      "mental": "-",
+      "digital": "-",
+      "melee": "-",
+      "crystal": "-",
+      "toxic": "-"
+    }
+  },
+  {
+    "trait": "Shared Pain",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "1/2",
+      "water": "1/2",
+      "fire": "2",
+      "nature": "1/2",
+      "electric": "1/2",
+      "mental": "-",
+      "digital": "-",
+      "melee": "-",
+      "crystal": "-",
+      "toxic": "2"
+    }
+  },
+  {
+    "trait": "Mithridatism",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "1/2",
+      "water": "1/2",
+      "fire": "2",
+      "nature": "1/2",
+      "electric": "1/2",
+      "mental": "-",
+      "digital": "-",
+      "melee": "-",
+      "crystal": "-",
+      "toxic": "8/5"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "1/2",
+      "earth": "1/4",
+      "water": "1/2",
+      "fire": "2",
+      "nature": "1/2",
+      "electric": "-",
+      "mental": "-",
+      "digital": "-",
+      "melee": "-",
+      "crystal": "-",
+      "toxic": "2"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "-",
+      "water": "-",
+      "fire": "-",
+      "nature": "-",
+      "electric": "-",
+      "mental": "2",
+      "digital": "-",
+      "melee": "-",
+      "crystal": "-",
+      "toxic": "-"
+    }
+  },
+  {
+    "trait": "Brumation",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "2",
+      "water": "1/2",
+      "fire": "-",
+      "nature": "1/2",
+      "electric": "1/2",
+      "mental": "-",
+      "digital": "-",
+      "melee": "-",
+      "crystal": "2",
+      "toxic": "1/2"
+    }
+  },
+  {
+    "trait": "Thick Skin",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "1/2",
+      "earth": "2",
+      "water": "1/2",
+      "fire": "-",
+      "nature": "1/2",
+      "electric": "1/2",
+      "mental": "-",
+      "digital": "-",
+      "melee": "-",
+      "crystal": "2",
+      "toxic": "1/2"
+    }
+  },
+  {
+    "trait": "Punch Bag",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "-",
+      "water": "-",
+      "fire": "-",
+      "nature": "-",
+      "electric": "-",
+      "mental": "2",
+      "digital": "2",
+      "melee": "7/20",
+      "crystal": "-",
+      "toxic": "-"
+    }
+  },
+  {
+    "trait": "Parrier",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "-",
+      "water": "-",
+      "fire": "-",
+      "nature": "-",
+      "electric": "-",
+      "mental": "2",
+      "digital": "2",
+      "melee": "1/2",
+      "crystal": "-",
+      "toxic": "-"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "2",
+      "water": "2",
+      "fire": "1/2",
+      "nature": "1/2",
+      "electric": "-",
+      "mental": "2",
+      "digital": "2",
+      "melee": "1/2",
+      "crystal": "1/2",
+      "toxic": "-"
+    }
+  },
+  {
+    "trait": "Hover",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "1/2",
+      "earth": "1/4",
+      "water": "-",
+      "fire": "-",
+      "nature": "-",
+      "electric": "2",
+      "mental": "-",
+      "digital": "-",
+      "melee": "-",
+      "crystal": "-",
+      "toxic": "-"
+    }
+  },
+  {
+    "trait": "Friendship",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "1/2",
+      "earth": "1/2",
+      "water": "-",
+      "fire": "-",
+      "nature": "-",
+      "electric": "2",
+      "mental": "-",
+      "digital": "-",
+      "melee": "-",
+      "crystal": "-",
+      "toxic": "-"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "1/2",
+      "earth": "1/2",
+      "water": "-",
+      "fire": "-",
+      "nature": "-",
+      "electric": "2",
+      "mental": "-",
+      "digital": "-",
+      "melee": "-",
+      "crystal": "-",
+      "toxic": "-"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "1/2",
+      "earth": "1/2",
+      "water": "-",
+      "fire": "-",
+      "nature": "-",
+      "electric": "2",
+      "mental": "-",
+      "digital": "-",
+      "melee": "-",
+      "crystal": "-",
+      "toxic": "-"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "1/2",
+      "earth": "2",
+      "water": "-",
+      "fire": "-",
+      "nature": "-",
+      "electric": "1/2",
+      "mental": "-",
+      "digital": "-",
+      "melee": "-",
+      "crystal": "2",
+      "toxic": "-"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "1/2",
+      "earth": "-",
+      "water": "1/2",
+      "fire": "2",
+      "nature": "1/2",
+      "electric": "1/4",
+      "mental": "-",
+      "digital": "-",
+      "melee": "-",
+      "crystal": "2",
+      "toxic": "2"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "2",
+      "water": "2",
+      "fire": "-",
+      "nature": "2",
+      "electric": "1/4",
+      "mental": "1/2",
+      "digital": "-",
+      "melee": "4",
+      "crystal": "1/2",
+      "toxic": "1/4"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "2",
+      "water": "2",
+      "fire": "-",
+      "nature": "2",
+      "electric": "1/4",
+      "mental": "1/2",
+      "digital": "-",
+      "melee": "4",
+      "crystal": "1/2",
+      "toxic": "1/4"
+    }
+  },
+  {
+    "trait": "Electric Synthesize",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "1/2",
+      "water": "1/2",
+      "fire": "2",
+      "nature": "1/2",
+      "electric": "0",
+      "mental": "-",
+      "digital": "-",
+      "melee": "-",
+      "crystal": "-",
+      "toxic": "2"
+    }
+  },
+  {
+    "trait": "Botanist",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "1/2",
+      "water": "1/2",
+      "fire": "2",
+      "nature": "1/2",
+      "electric": "1/2",
+      "mental": "-",
+      "digital": "-",
+      "melee": "-",
+      "crystal": "-",
+      "toxic": "2"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "1/2",
+      "water": "1/2",
+      "fire": "2",
+      "nature": "1/2",
+      "electric": "1/2",
+      "mental": "-",
+      "digital": "-",
+      "melee": "-",
+      "crystal": "-",
+      "toxic": "2"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "1/2",
+      "water": "1/2",
+      "fire": "1/2",
+      "nature": "2",
+      "electric": "2",
+      "mental": "-",
+      "digital": "-",
+      "melee": "-",
+      "crystal": "-",
+      "toxic": "2"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "1/2",
+      "earth": "1/4",
+      "water": "1/2",
+      "fire": "1/2",
+      "nature": "2",
+      "electric": "4",
+      "mental": "-",
+      "digital": "-",
+      "melee": "-",
+      "crystal": "-",
+      "toxic": "2"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "-",
+      "water": "-",
+      "fire": "-",
+      "nature": "-",
+      "electric": "-",
+      "mental": "2",
+      "digital": "-",
+      "melee": "-",
+      "crystal": "-",
+      "toxic": "-"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "-",
+      "water": "-",
+      "fire": "-",
+      "nature": "-",
+      "electric": "-",
+      "mental": "4",
+      "digital": "2",
+      "melee": "1/2",
+      "crystal": "-",
+      "toxic": "-"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "-",
+      "water": "-",
+      "fire": "-",
+      "nature": "-",
+      "electric": "-",
+      "mental": "2",
+      "digital": "-",
+      "melee": "-",
+      "crystal": "-",
+      "toxic": "-"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "-",
+      "water": "-",
+      "fire": "-",
+      "nature": "-",
+      "electric": "-",
+      "mental": "2",
+      "digital": "-",
+      "melee": "-",
+      "crystal": "-",
+      "toxic": "-"
+    }
+  },
+  {
+    "trait": "Tardy Rush",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "-",
+      "water": "2",
+      "fire": "1/2",
+      "nature": "2",
+      "electric": "1/2",
+      "mental": "2",
+      "digital": "-",
+      "melee": "2",
+      "crystal": "1/2",
+      "toxic": "1/2"
+    }
+  },
+  {
+    "trait": "Thick Skin",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "1/2",
+      "earth": "-",
+      "water": "2",
+      "fire": "1/2",
+      "nature": "2",
+      "electric": "1/2",
+      "mental": "2",
+      "digital": "-",
+      "melee": "2",
+      "crystal": "1/2",
+      "toxic": "1/2"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "1/2",
+      "wind": "-",
+      "earth": "-",
+      "water": "-",
+      "fire": "-",
+      "nature": "-",
+      "electric": "2",
+      "mental": "-",
+      "digital": "2",
+      "melee": "1/2",
+      "crystal": "2",
+      "toxic": "-"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "1/2",
+      "wind": "-",
+      "earth": "-",
+      "water": "-",
+      "fire": "-",
+      "nature": "-",
+      "electric": "2",
+      "mental": "-",
+      "digital": "2",
+      "melee": "1/2",
+      "crystal": "2",
+      "toxic": "-"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "1/2",
+      "wind": "-",
+      "earth": "1/2",
+      "water": "1/2",
+      "fire": "1/2",
+      "nature": "2",
+      "electric": "4",
+      "mental": "-",
+      "digital": "2",
+      "melee": "1/2",
+      "crystal": "2",
+      "toxic": "2"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "2",
+      "earth": "1/2",
+      "water": "1/4",
+      "fire": "2",
+      "nature": "1/4",
+      "electric": "1/2",
+      "mental": "-",
+      "digital": "-",
+      "melee": "-",
+      "crystal": "-",
+      "toxic": "-"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "2",
+      "earth": "1/2",
+      "water": "1/4",
+      "fire": "2",
+      "nature": "1/4",
+      "electric": "1/2",
+      "mental": "-",
+      "digital": "-",
+      "melee": "-",
+      "crystal": "-",
+      "toxic": "-"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "2",
+      "water": "2",
+      "fire": "1/2",
+      "nature": "1/2",
+      "electric": "-",
+      "mental": "-",
+      "digital": "-",
+      "melee": "-",
+      "crystal": "1/2",
+      "toxic": "-"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "2",
+      "water": "2",
+      "fire": "1/2",
+      "nature": "1/2",
+      "electric": "-",
+      "mental": "-",
+      "digital": "-",
+      "melee": "-",
+      "crystal": "1/2",
+      "toxic": "-"
+    }
+  },
+  {
+    "trait": "Scavenger",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "2",
+      "water": "-",
+      "fire": "2",
+      "nature": "-",
+      "electric": "1/2",
+      "mental": "1/2",
+      "digital": "-",
+      "melee": "2",
+      "crystal": "-",
+      "toxic": "1/2"
+    }
+  },
+  {
+    "trait": "Electric Synthesize",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "2",
+      "water": "-",
+      "fire": "2",
+      "nature": "-",
+      "electric": "0",
+      "mental": "1/2",
+      "digital": "-",
+      "melee": "2",
+      "crystal": "-",
+      "toxic": "1/2"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "2",
+      "water": "-",
+      "fire": "2",
+      "nature": "-",
+      "electric": "1/2",
+      "mental": "1/2",
+      "digital": "-",
+      "melee": "2",
+      "crystal": "-",
+      "toxic": "1/2"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "2",
+      "water": "-",
+      "fire": "2",
+      "nature": "-",
+      "electric": "1/2",
+      "mental": "1/2",
+      "digital": "-",
+      "melee": "2",
+      "crystal": "-",
+      "toxic": "1/2"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "1/2",
+      "wind": "-",
+      "earth": "-",
+      "water": "-",
+      "fire": "-",
+      "nature": "-",
+      "electric": "2",
+      "mental": "-",
+      "digital": "2",
+      "melee": "1/2",
+      "crystal": "2",
+      "toxic": "-"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "1/2",
+      "wind": "-",
+      "earth": "2",
+      "water": "2",
+      "fire": "1/2",
+      "nature": "1/2",
+      "electric": "2",
+      "mental": "-",
+      "digital": "2",
+      "melee": "1/2",
+      "crystal": "-",
+      "toxic": "-"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "1/2",
+      "water": "1/2",
+      "fire": "2",
+      "nature": "1/2",
+      "electric": "1/2",
+      "mental": "-",
+      "digital": "-",
+      "melee": "-",
+      "crystal": "-",
+      "toxic": "2"
+    }
+  },
+  {
+    "trait": "Mucous",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "1/4",
+      "water": "1/4",
+      "fire": "-",
+      "nature": "-",
+      "electric": "7/10",
+      "mental": "-",
+      "digital": "-",
+      "melee": "-",
+      "crystal": "-",
+      "toxic": "14/5"
+    }
+  },
+  {
+    "trait": "Withdrawal",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "1/4",
+      "water": "1/4",
+      "fire": "-",
+      "nature": "-",
+      "electric": "-",
+      "mental": "-",
+      "digital": "-",
+      "melee": "-",
+      "crystal": "-",
+      "toxic": "4"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "1/2",
+      "earth": "2",
+      "water": "2",
+      "fire": "-",
+      "nature": "-",
+      "electric": "-",
+      "mental": "-",
+      "digital": "2",
+      "melee": "-",
+      "crystal": "2",
+      "toxic": "1/2"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "1/2",
+      "earth": "2",
+      "water": "2",
+      "fire": "-",
+      "nature": "-",
+      "electric": "-",
+      "mental": "-",
+      "digital": "2",
+      "melee": "-",
+      "crystal": "2",
+      "toxic": "1/2"
+    }
+  },
+  {
+    "trait": "Caffeinated",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "1/2",
+      "water": "1/2",
+      "fire": "2",
+      "nature": "1/2",
+      "electric": "1/2",
+      "mental": "-",
+      "digital": "-",
+      "melee": "-",
+      "crystal": "-",
+      "toxic": "2"
+    }
+  },
+  {
+    "trait": "Mithridatism",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "1/2",
+      "water": "1/2",
+      "fire": "2",
+      "nature": "1/2",
+      "electric": "1/2",
+      "mental": "-",
+      "digital": "-",
+      "melee": "-",
+      "crystal": "-",
+      "toxic": "8/5"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "1/2",
+      "earth": "1/4",
+      "water": "1/2",
+      "fire": "2",
+      "nature": "1/2",
+      "electric": "-",
+      "mental": "-",
+      "digital": "-",
+      "melee": "-",
+      "crystal": "-",
+      "toxic": "2"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "2",
+      "water": "-",
+      "fire": "2",
+      "nature": "-",
+      "electric": "1/2",
+      "mental": "-",
+      "digital": "-",
+      "melee": "2",
+      "crystal": "-",
+      "toxic": "1/2"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "1/2",
+      "wind": "-",
+      "earth": "-",
+      "water": "-",
+      "fire": "-",
+      "nature": "-",
+      "electric": "2",
+      "mental": "2",
+      "digital": "4",
+      "melee": "1/4",
+      "crystal": "2",
+      "toxic": "-"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "1/2",
+      "earth": "1/2",
+      "water": "-",
+      "fire": "-",
+      "nature": "-",
+      "electric": "2",
+      "mental": "2",
+      "digital": "2",
+      "melee": "1/2",
+      "crystal": "-",
+      "toxic": "-"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "1/2",
+      "wind": "1/2",
+      "earth": "1/2",
+      "water": "-",
+      "fire": "-",
+      "nature": "-",
+      "electric": "4",
+      "mental": "-",
+      "digital": "2",
+      "melee": "1/2",
+      "crystal": "2",
+      "toxic": "-"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "2",
+      "water": "-",
+      "fire": "2",
+      "nature": "-",
+      "electric": "1/2",
+      "mental": "-",
+      "digital": "2",
+      "melee": "-",
+      "crystal": "-",
+      "toxic": "1/2"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "2",
+      "water": "-",
+      "fire": "2",
+      "nature": "-",
+      "electric": "1/2",
+      "mental": "1/2",
+      "digital": "-",
+      "melee": "2",
+      "crystal": "-",
+      "toxic": "1/2"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "1/2",
+      "wind": "-",
+      "earth": "2",
+      "water": "-",
+      "fire": "2",
+      "nature": "-",
+      "electric": "-",
+      "mental": "1/2",
+      "digital": "2",
+      "melee": "-",
+      "crystal": "2",
+      "toxic": "1/2"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "2",
+      "water": "2",
+      "fire": "1/2",
+      "nature": "1/2",
+      "electric": "-",
+      "mental": "-",
+      "digital": "-",
+      "melee": "-",
+      "crystal": "1/2",
+      "toxic": "-"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "2",
+      "water": "2",
+      "fire": "1/2",
+      "nature": "1/2",
+      "electric": "-",
+      "mental": "-",
+      "digital": "-",
+      "melee": "-",
+      "crystal": "1/2",
+      "toxic": "-"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "2",
+      "water": "2",
+      "fire": "1/2",
+      "nature": "1/2",
+      "electric": "-",
+      "mental": "-",
+      "digital": "-",
+      "melee": "-",
+      "crystal": "1/2",
+      "toxic": "-"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "1/2",
+      "water": "1/2",
+      "fire": "1/2",
+      "nature": "2",
+      "electric": "2",
+      "mental": "-",
+      "digital": "-",
+      "melee": "-",
+      "crystal": "-",
+      "toxic": "2"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "1/2",
+      "water": "1/2",
+      "fire": "1/2",
+      "nature": "2",
+      "electric": "2",
+      "mental": "-",
+      "digital": "-",
+      "melee": "-",
+      "crystal": "-",
+      "toxic": "2"
+    }
+  },
+  {
+    "trait": "Immunity",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "1/2",
+      "earth": "2",
+      "water": "-",
+      "fire": "-",
+      "nature": "-",
+      "electric": "1/2",
+      "mental": "-",
+      "digital": "-",
+      "melee": "-",
+      "crystal": "2",
+      "toxic": "0"
+    }
+  },
+  {
+    "trait": "Strong Liver",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "1/2",
+      "earth": "2",
+      "water": "-",
+      "fire": "-",
+      "nature": "-",
+      "electric": "1/2",
+      "mental": "-",
+      "digital": "-",
+      "melee": "-",
+      "crystal": "2",
+      "toxic": "0"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "1/2",
+      "earth": "4",
+      "water": "2",
+      "fire": "1/2",
+      "nature": "1/2",
+      "electric": "1/2",
+      "mental": "-",
+      "digital": "-",
+      "melee": "-",
+      "crystal": "-",
+      "toxic": "-"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "2",
+      "water": "4",
+      "fire": "1/2",
+      "nature": "1/2",
+      "electric": "2",
+      "mental": "-",
+      "digital": "2",
+      "melee": "-",
+      "crystal": "1/2",
+      "toxic": "1/2"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "2",
+      "water": "4",
+      "fire": "1/2",
+      "nature": "1/2",
+      "electric": "2",
+      "mental": "-",
+      "digital": "2",
+      "melee": "-",
+      "crystal": "1/2",
+      "toxic": "1/2"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "-",
+      "water": "2",
+      "fire": "1/2",
+      "nature": "2",
+      "electric": "1/2",
+      "mental": "-",
+      "digital": "-",
+      "melee": "2",
+      "crystal": "1/2",
+      "toxic": "1/2"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "-",
+      "water": "2",
+      "fire": "1/2",
+      "nature": "2",
+      "electric": "1/2",
+      "mental": "2",
+      "digital": "2",
+      "melee": "-",
+      "crystal": "1/2",
+      "toxic": "1/2"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "-",
+      "water": "2",
+      "fire": "1/2",
+      "nature": "2",
+      "electric": "1/2",
+      "mental": "2",
+      "digital": "2",
+      "melee": "-",
+      "crystal": "1/2",
+      "toxic": "1/2"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "1/2",
+      "water": "1/2",
+      "fire": "1/2",
+      "nature": "2",
+      "electric": "2",
+      "mental": "2",
+      "digital": "2",
+      "melee": "1/2",
+      "crystal": "-",
+      "toxic": "2"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "2",
+      "water": "4",
+      "fire": "1/4",
+      "nature": "-",
+      "electric": "1/2",
+      "mental": "-",
+      "digital": "-",
+      "melee": "2",
+      "crystal": "1/4",
+      "toxic": "1/2"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "2",
+      "water": "4",
+      "fire": "1/4",
+      "nature": "-",
+      "electric": "1/2",
+      "mental": "-",
+      "digital": "-",
+      "melee": "2",
+      "crystal": "1/4",
+      "toxic": "1/2"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "2",
+      "water": "-",
+      "fire": "2",
+      "nature": "-",
+      "electric": "1/2",
+      "mental": "1/2",
+      "digital": "-",
+      "melee": "2",
+      "crystal": "-",
+      "toxic": "1/2"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "2",
+      "water": "-",
+      "fire": "2",
+      "nature": "-",
+      "electric": "1/2",
+      "mental": "1/2",
+      "digital": "-",
+      "melee": "2",
+      "crystal": "-",
+      "toxic": "1/2"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "2",
+      "earth": "2",
+      "water": "1/2",
+      "fire": "2",
+      "nature": "1/2",
+      "electric": "1/2",
+      "mental": "1/2",
+      "digital": "-",
+      "melee": "2",
+      "crystal": "-",
+      "toxic": "1/4"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "1/2",
+      "earth": "4",
+      "water": "-",
+      "fire": "2",
+      "nature": "-",
+      "electric": "1/4",
+      "mental": "1/2",
+      "digital": "-",
+      "melee": "2",
+      "crystal": "2",
+      "toxic": "1/2"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "-",
+      "water": "-",
+      "fire": "-",
+      "nature": "-",
+      "electric": "-",
+      "mental": "2",
+      "digital": "2",
+      "melee": "1/2",
+      "crystal": "-",
+      "toxic": "-"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "-",
+      "water": "-",
+      "fire": "-",
+      "nature": "-",
+      "electric": "-",
+      "mental": "2",
+      "digital": "2",
+      "melee": "1/2",
+      "crystal": "-",
+      "toxic": "-"
+    }
+  },
+  {
+    "trait": "Neurotoxins",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "2",
+      "earth": "-",
+      "water": "-",
+      "fire": "-",
+      "nature": "1/2",
+      "electric": "2",
+      "mental": "-",
+      "digital": "2",
+      "melee": "-",
+      "crystal": "-",
+      "toxic": "1/4"
+    }
+  },
+  {
+    "trait": "Water Synthesizer",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "2",
+      "earth": "-",
+      "water": "0",
+      "fire": "-",
+      "nature": "1/2",
+      "electric": "2",
+      "mental": "-",
+      "digital": "2",
+      "melee": "-",
+      "crystal": "-",
+      "toxic": "1/4"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "1/2",
+      "wind": "-",
+      "earth": "-",
+      "water": "-",
+      "fire": "-",
+      "nature": "-",
+      "electric": "2",
+      "mental": "-",
+      "digital": "2",
+      "melee": "1/2",
+      "crystal": "2",
+      "toxic": "-"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "1/2",
+      "wind": "-",
+      "earth": "-",
+      "water": "-",
+      "fire": "-",
+      "nature": "-",
+      "electric": "2",
+      "mental": "-",
+      "digital": "2",
+      "melee": "1/2",
+      "crystal": "2",
+      "toxic": "-"
+    }
+  },
+  {
+    "trait": "Caffeinated",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "1/2",
+      "earth": "2",
+      "water": "-",
+      "fire": "-",
+      "nature": "-",
+      "electric": "1/2",
+      "mental": "-",
+      "digital": "-",
+      "melee": "-",
+      "crystal": "2",
+      "toxic": "-"
+    }
+  },
+  {
+    "trait": "Electric Synthesize",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "1/2",
+      "earth": "2",
+      "water": "-",
+      "fire": "-",
+      "nature": "-",
+      "electric": "0",
+      "mental": "-",
+      "digital": "-",
+      "melee": "-",
+      "crystal": "2",
+      "toxic": "-"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "1/2",
+      "earth": "2",
+      "water": "-",
+      "fire": "-",
+      "nature": "-",
+      "electric": "1/2",
+      "mental": "-",
+      "digital": "-",
+      "melee": "-",
+      "crystal": "2",
+      "toxic": "-"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "1/2",
+      "earth": "2",
+      "water": "-",
+      "fire": "-",
+      "nature": "-",
+      "electric": "1/2",
+      "mental": "2",
+      "digital": "2",
+      "melee": "1/2",
+      "crystal": "2",
+      "toxic": "-"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "2",
+      "earth": "-",
+      "water": "1/2",
+      "fire": "-",
+      "nature": "1/2",
+      "electric": "-",
+      "mental": "-",
+      "digital": "-",
+      "melee": "-",
+      "crystal": "-",
+      "toxic": "1/2"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "2",
+      "earth": "-",
+      "water": "1/2",
+      "fire": "-",
+      "nature": "1/2",
+      "electric": "-",
+      "mental": "2",
+      "digital": "2",
+      "melee": "1/2",
+      "crystal": "-",
+      "toxic": "1/2"
+    }
+  },
+  {
+    "trait": "Caffeinated",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "2",
+      "water": "2",
+      "fire": "1/2",
+      "nature": "1/2",
+      "electric": "-",
+      "mental": "-",
+      "digital": "-",
+      "melee": "-",
+      "crystal": "1/2",
+      "toxic": "-"
+    }
+  },
+  {
+    "trait": "Thick Skin",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "1/2",
+      "earth": "2",
+      "water": "2",
+      "fire": "1/2",
+      "nature": "1/2",
+      "electric": "-",
+      "mental": "-",
+      "digital": "-",
+      "melee": "-",
+      "crystal": "1/2",
+      "toxic": "-"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "-",
+      "water": "-",
+      "fire": "1/4",
+      "nature": "-",
+      "electric": "2",
+      "mental": "-",
+      "digital": "-",
+      "melee": "-",
+      "crystal": "1/2",
+      "toxic": "2"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "1/2",
+      "water": "1/2",
+      "fire": "1/2",
+      "nature": "2",
+      "electric": "2",
+      "mental": "-",
+      "digital": "-",
+      "melee": "-",
+      "crystal": "-",
+      "toxic": "2"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "1/2",
+      "water": "1/2",
+      "fire": "1/2",
+      "nature": "2",
+      "electric": "2",
+      "mental": "-",
+      "digital": "-",
+      "melee": "-",
+      "crystal": "-",
+      "toxic": "2"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "1/2",
+      "earth": "2",
+      "water": "-",
+      "fire": "-",
+      "nature": "-",
+      "electric": "1/2",
+      "mental": "-",
+      "digital": "-",
+      "melee": "-",
+      "crystal": "2",
+      "toxic": "-"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "1/2",
+      "earth": "2",
+      "water": "-",
+      "fire": "-",
+      "nature": "-",
+      "electric": "1/2",
+      "mental": "-",
+      "digital": "-",
+      "melee": "-",
+      "crystal": "2",
+      "toxic": "-"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "-",
+      "water": "-",
+      "fire": "-",
+      "nature": "-",
+      "electric": "-",
+      "mental": "2",
+      "digital": "2",
+      "melee": "1/2",
+      "crystal": "-",
+      "toxic": "-"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "-",
+      "water": "-",
+      "fire": "-",
+      "nature": "-",
+      "electric": "-",
+      "mental": "2",
+      "digital": "2",
+      "melee": "1/2",
+      "crystal": "-",
+      "toxic": "-"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "-",
+      "water": "2",
+      "fire": "1/2",
+      "nature": "2",
+      "electric": "1/2",
+      "mental": "2",
+      "digital": "2",
+      "melee": "-",
+      "crystal": "1/2",
+      "toxic": "1/2"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "-",
+      "water": "2",
+      "fire": "1/2",
+      "nature": "2",
+      "electric": "1/2",
+      "mental": "-",
+      "digital": "-",
+      "melee": "2",
+      "crystal": "1/2",
+      "toxic": "1/2"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "-",
+      "water": "-",
+      "fire": "-",
+      "nature": "-",
+      "electric": "-",
+      "mental": "2",
+      "digital": "2",
+      "melee": "1/2",
+      "crystal": "-",
+      "toxic": "-"
+    }
+  },
+  {
+    "trait": "Soft Touch",
+    "matchupMap": {
+      "neutral": "1/2",
+      "wind": "-",
+      "earth": "-",
+      "water": "-",
+      "fire": "-",
+      "nature": "-",
+      "electric": "2",
+      "mental": "-",
+      "digital": "2",
+      "melee": "1/2",
+      "crystal": "2",
+      "toxic": "-"
+    }
+  },
+  {
+    "trait": "Skull Helmet",
+    "matchupMap": {
+      "neutral": "1/2",
+      "wind": "-",
+      "earth": "-",
+      "water": "-",
+      "fire": "-",
+      "nature": "-",
+      "electric": "2",
+      "mental": "3/4",
+      "digital": "2",
+      "melee": "3/8",
+      "crystal": "2",
+      "toxic": "-"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "1/2",
+      "wind": "-",
+      "earth": "-",
+      "water": "-",
+      "fire": "-",
+      "nature": "-",
+      "electric": "2",
+      "mental": "-",
+      "digital": "2",
+      "melee": "1/2",
+      "crystal": "2",
+      "toxic": "-"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "-",
+      "water": "-",
+      "fire": "-",
+      "nature": "-",
+      "electric": "-",
+      "mental": "2",
+      "digital": "-",
+      "melee": "-",
+      "crystal": "-",
+      "toxic": "-"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "-",
+      "water": "2",
+      "fire": "1/2",
+      "nature": "2",
+      "electric": "1/2",
+      "mental": "-",
+      "digital": "-",
+      "melee": "2",
+      "crystal": "1/2",
+      "toxic": "1/2"
+    }
+  },
+  {
+    "trait": "Scavenger",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "-",
+      "water": "2",
+      "fire": "1/2",
+      "nature": "2",
+      "electric": "1/2",
+      "mental": "-",
+      "digital": "-",
+      "melee": "2",
+      "crystal": "1/2",
+      "toxic": "1/2"
+    }
+  },
+  {
+    "trait": "Skull Helmet",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "-",
+      "water": "2",
+      "fire": "1/2",
+      "nature": "2",
+      "electric": "1/2",
+      "mental": "3/4",
+      "digital": "-",
+      "melee": "3/2",
+      "crystal": "1/2",
+      "toxic": "1/2"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "1/2",
+      "water": "1/2",
+      "fire": "2",
+      "nature": "1/2",
+      "electric": "1/2",
+      "mental": "-",
+      "digital": "-",
+      "melee": "-",
+      "crystal": "-",
+      "toxic": "2"
+    }
+  },
+  {
+    "trait": "Mithridatism",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "1/2",
+      "water": "1/2",
+      "fire": "2",
+      "nature": "1/2",
+      "electric": "1/2",
+      "mental": "-",
+      "digital": "-",
+      "melee": "-",
+      "crystal": "-",
+      "toxic": "8/5"
+    }
+  },
+  {
+    "trait": "Settling",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "1/2",
+      "water": "1/2",
+      "fire": "2",
+      "nature": "1/2",
+      "electric": "1/2",
+      "mental": "-",
+      "digital": "-",
+      "melee": "-",
+      "crystal": "-",
+      "toxic": "2"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "1/2",
+      "water": "1/2",
+      "fire": "2",
+      "nature": "1/2",
+      "electric": "1/2",
+      "mental": "-",
+      "digital": "-",
+      "melee": "-",
+      "crystal": "-",
+      "toxic": "2"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "2",
+      "earth": "-",
+      "water": "1/2",
+      "fire": "-",
+      "nature": "1/2",
+      "electric": "-",
+      "mental": "-",
+      "digital": "-",
+      "melee": "-",
+      "crystal": "-",
+      "toxic": "1/2"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "2",
+      "earth": "-",
+      "water": "1/2",
+      "fire": "-",
+      "nature": "1/2",
+      "electric": "-",
+      "mental": "-",
+      "digital": "-",
+      "melee": "-",
+      "crystal": "-",
+      "toxic": "1/2"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "2",
+      "earth": "-",
+      "water": "1/2",
+      "fire": "-",
+      "nature": "1/2",
+      "electric": "-",
+      "mental": "-",
+      "digital": "-",
+      "melee": "-",
+      "crystal": "-",
+      "toxic": "1/2"
+    }
+  },
+  {
+    "trait": "Strong Liver",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "2",
+      "earth": "-",
+      "water": "1/2",
+      "fire": "-",
+      "nature": "1/2",
+      "electric": "-",
+      "mental": "-",
+      "digital": "-",
+      "melee": "-",
+      "crystal": "-",
+      "toxic": "0"
+    }
+  },
+  {
+    "trait": "Punch Bag",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "2",
+      "earth": "-",
+      "water": "1/2",
+      "fire": "-",
+      "nature": "1/2",
+      "electric": "-",
+      "mental": "-",
+      "digital": "-",
+      "melee": "7/10",
+      "crystal": "-",
+      "toxic": "1/2"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "1/2",
+      "water": "1/2",
+      "fire": "-",
+      "nature": "1/2",
+      "electric": "2",
+      "mental": "-",
+      "digital": "-",
+      "melee": "-",
+      "crystal": "-",
+      "toxic": "1/2"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "1/2",
+      "water": "1/2",
+      "fire": "-",
+      "nature": "1/2",
+      "electric": "2",
+      "mental": "-",
+      "digital": "-",
+      "melee": "-",
+      "crystal": "-",
+      "toxic": "1/2"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "-",
+      "water": "2",
+      "fire": "1/2",
+      "nature": "2",
+      "electric": "1/2",
+      "mental": "-",
+      "digital": "-",
+      "melee": "2",
+      "crystal": "1/2",
+      "toxic": "1/2"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "1/2",
+      "earth": "2",
+      "water": "2",
+      "fire": "1/2",
+      "nature": "2",
+      "electric": "1/4",
+      "mental": "-",
+      "digital": "-",
+      "melee": "2",
+      "crystal": "-",
+      "toxic": "1/2"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "1/4",
+      "earth": "-",
+      "water": "-",
+      "fire": "-",
+      "nature": "-",
+      "electric": "-",
+      "mental": "-",
+      "digital": "-",
+      "melee": "-",
+      "crystal": "2",
+      "toxic": "-"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "1/4",
+      "earth": "-",
+      "water": "-",
+      "fire": "-",
+      "nature": "-",
+      "electric": "-",
+      "mental": "-",
+      "digital": "-",
+      "melee": "-",
+      "crystal": "2",
+      "toxic": "-"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "1/2",
+      "water": "1/2",
+      "fire": "1/2",
+      "nature": "2",
+      "electric": "2",
+      "mental": "-",
+      "digital": "-",
+      "melee": "-",
+      "crystal": "-",
+      "toxic": "2"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "-",
+      "water": "-",
+      "fire": "-",
+      "nature": "-",
+      "electric": "-",
+      "mental": "2",
+      "digital": "-",
+      "melee": "-",
+      "crystal": "-",
+      "toxic": "-"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "1/2",
+      "water": "-",
+      "fire": "1/4",
+      "nature": "4",
+      "electric": "-",
+      "mental": "-",
+      "digital": "-",
+      "melee": "2",
+      "crystal": "1/2",
+      "toxic": "-"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "1/2",
+      "water": "-",
+      "fire": "1/4",
+      "nature": "4",
+      "electric": "-",
+      "mental": "-",
+      "digital": "-",
+      "melee": "2",
+      "crystal": "1/2",
+      "toxic": "-"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "1/2",
+      "water": "1/2",
+      "fire": "2",
+      "nature": "1/2",
+      "electric": "1/2",
+      "mental": "-",
+      "digital": "-",
+      "melee": "-",
+      "crystal": "-",
+      "toxic": "2"
+    }
+  },
+  {
+    "trait": "Immunity",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "1/2",
+      "water": "1/2",
+      "fire": "2",
+      "nature": "1/2",
+      "electric": "1/2",
+      "mental": "2",
+      "digital": "2",
+      "melee": "1/2",
+      "crystal": "-",
+      "toxic": "0"
+    }
+  },
+  {
+    "trait": "Coward's Rest",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "1/2",
+      "water": "1/2",
+      "fire": "2",
+      "nature": "1/2",
+      "electric": "1/2",
+      "mental": "2",
+      "digital": "2",
+      "melee": "1/2",
+      "crystal": "-",
+      "toxic": "2"
+    }
+  },
+  {
+    "trait": "Mithridatism",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "1/2",
+      "water": "1/2",
+      "fire": "2",
+      "nature": "1/2",
+      "electric": "1/2",
+      "mental": "2",
+      "digital": "2",
+      "melee": "1/2",
+      "crystal": "-",
+      "toxic": "8/5"
+    }
+  },
+  {
+    "trait": "Camouflage",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "1/2",
+      "water": "1/2",
+      "fire": "2",
+      "nature": "1/2",
+      "electric": "1/2",
+      "mental": "2",
+      "digital": "2",
+      "melee": "1/2",
+      "crystal": "-",
+      "toxic": "2"
+    }
+  },
+  {
+    "trait": "Immunity",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "-",
+      "water": "1/2",
+      "fire": "-",
+      "nature": "2",
+      "electric": "-",
+      "mental": "1/2",
+      "digital": "-",
+      "melee": "2",
+      "crystal": "-",
+      "toxic": "0"
+    }
+  },
+  {
+    "trait": "Guardian",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "-",
+      "water": "1/2",
+      "fire": "-",
+      "nature": "2",
+      "electric": "-",
+      "mental": "1/2",
+      "digital": "-",
+      "melee": "2",
+      "crystal": "-",
+      "toxic": "-"
+    }
+  },
+  {
+    "trait": "Electric Synthesize",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "1/2",
+      "earth": "-",
+      "water": "1/2",
+      "fire": "1/2",
+      "nature": "2",
+      "electric": "0",
+      "mental": "-",
+      "digital": "-",
+      "melee": "-",
+      "crystal": "2",
+      "toxic": "2"
+    }
+  },
+  {
+    "trait": "Hydrologist",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "1/2",
+      "earth": "-",
+      "water": "1/2",
+      "fire": "1/2",
+      "nature": "2",
+      "electric": "-",
+      "mental": "-",
+      "digital": "-",
+      "melee": "-",
+      "crystal": "2",
+      "toxic": "2"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "1/2",
+      "wind": "-",
+      "earth": "-",
+      "water": "-",
+      "fire": "-",
+      "nature": "-",
+      "electric": "2",
+      "mental": "-",
+      "digital": "2",
+      "melee": "1/2",
+      "crystal": "2",
+      "toxic": "-"
+    }
+  },
+  {
+    "trait": "Thick Skin",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "1/2",
+      "earth": "1/2",
+      "water": "-",
+      "fire": "2",
+      "nature": "1/2",
+      "electric": "-",
+      "mental": "-",
+      "digital": "2",
+      "melee": "-",
+      "crystal": "-",
+      "toxic": "-"
+    }
+  },
+  {
+    "trait": "Amphibian",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "1/2",
+      "water": "-",
+      "fire": "2",
+      "nature": "1/2",
+      "electric": "-",
+      "mental": "-",
+      "digital": "2",
+      "melee": "-",
+      "crystal": "-",
+      "toxic": "-"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "1/2",
+      "wind": "-",
+      "earth": "-",
+      "water": "2",
+      "fire": "-",
+      "nature": "-",
+      "electric": "4",
+      "mental": "-",
+      "digital": "4",
+      "melee": "1/2",
+      "crystal": "2",
+      "toxic": "1/2"
+    }
+  },
+  {
+    "trait": "Mithridatism",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "1/2",
+      "water": "1/2",
+      "fire": "1/2",
+      "nature": "2",
+      "electric": "2",
+      "mental": "-",
+      "digital": "-",
+      "melee": "-",
+      "crystal": "-",
+      "toxic": "8/5"
+    }
+  },
+  {
+    "trait": "Hydrologist",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "1/2",
+      "water": "1/2",
+      "fire": "1/2",
+      "nature": "2",
+      "electric": "2",
+      "mental": "-",
+      "digital": "-",
+      "melee": "-",
+      "crystal": "-",
+      "toxic": "2"
+    }
+  },
+  {
+    "trait": "Toxic Skin",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "2",
+      "earth": "1/2",
+      "water": "1/4",
+      "fire": "1/2",
+      "nature": "-",
+      "electric": "2",
+      "mental": "-",
+      "digital": "-",
+      "melee": "-",
+      "crystal": "-",
+      "toxic": "-"
+    }
+  },
+  {
+    "trait": "Mucous",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "2",
+      "earth": "1/2",
+      "water": "1/4",
+      "fire": "1/2",
+      "nature": "-",
+      "electric": "7/5",
+      "mental": "-",
+      "digital": "-",
+      "melee": "-",
+      "crystal": "-",
+      "toxic": "7/10"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "1/2",
+      "wind": "2",
+      "earth": "-",
+      "water": "1/2",
+      "fire": "-",
+      "nature": "1/2",
+      "electric": "2",
+      "mental": "-",
+      "digital": "2",
+      "melee": "1/2",
+      "crystal": "2",
+      "toxic": "1/2"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "1/2",
+      "earth": "1/2",
+      "water": "-",
+      "fire": "-",
+      "nature": "-",
+      "electric": "2",
+      "mental": "-",
+      "digital": "-",
+      "melee": "-",
+      "crystal": "-",
+      "toxic": "-"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "1/2",
+      "earth": "1/4",
+      "water": "1/2",
+      "fire": "1/2",
+      "nature": "2",
+      "electric": "4",
+      "mental": "-",
+      "digital": "-",
+      "melee": "-",
+      "crystal": "-",
+      "toxic": "2"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "1/2",
+      "earth": "-",
+      "water": "2",
+      "fire": "1/2",
+      "nature": "1/2",
+      "electric": "2",
+      "mental": "-",
+      "digital": "-",
+      "melee": "-",
+      "crystal": "1/2",
+      "toxic": "-"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "1/2",
+      "earth": "-",
+      "water": "-",
+      "fire": "2",
+      "nature": "-",
+      "electric": "-",
+      "mental": "1/2",
+      "digital": "-",
+      "melee": "2",
+      "crystal": "-",
+      "toxic": "1/2"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "1/2",
+      "earth": "1/2",
+      "water": "2",
+      "fire": "1/2",
+      "nature": "2",
+      "electric": "-",
+      "mental": "-",
+      "digital": "-",
+      "melee": "2",
+      "crystal": "1/2",
+      "toxic": "1/2"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "1/2",
+      "earth": "1/2",
+      "water": "2",
+      "fire": "-",
+      "nature": "-",
+      "electric": "4",
+      "mental": "-",
+      "digital": "2",
+      "melee": "-",
+      "crystal": "-",
+      "toxic": "1/2"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "1/2",
+      "earth": "1/2",
+      "water": "-",
+      "fire": "-",
+      "nature": "-",
+      "electric": "2",
+      "mental": "2",
+      "digital": "2",
+      "melee": "1/2",
+      "crystal": "-",
+      "toxic": "-"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "1/2",
+      "wind": "-",
+      "earth": "1/2",
+      "water": "1/2",
+      "fire": "2",
+      "nature": "1/2",
+      "electric": "-",
+      "mental": "-",
+      "digital": "2",
+      "melee": "1/2",
+      "crystal": "2",
+      "toxic": "2"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "2",
+      "water": "4",
+      "fire": "1/4",
+      "nature": "-",
+      "electric": "1/2",
+      "mental": "-",
+      "digital": "-",
+      "melee": "2",
+      "crystal": "1/4",
+      "toxic": "1/2"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "2",
+      "water": "4",
+      "fire": "1/4",
+      "nature": "-",
+      "electric": "1/2",
+      "mental": "-",
+      "digital": "-",
+      "melee": "2",
+      "crystal": "1/4",
+      "toxic": "1/2"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "2",
+      "water": "4",
+      "fire": "1/4",
+      "nature": "-",
+      "electric": "1/2",
+      "mental": "-",
+      "digital": "-",
+      "melee": "2",
+      "crystal": "1/4",
+      "toxic": "1/2"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "1/2",
+      "earth": "1/2",
+      "water": "-",
+      "fire": "-",
+      "nature": "-",
+      "electric": "2",
+      "mental": "-",
+      "digital": "-",
+      "melee": "-",
+      "crystal": "-",
+      "toxic": "-"
+    }
+  },
+  {
+    "trait": "Book Lungs",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "2",
+      "earth": "-",
+      "water": "1/2",
+      "fire": "1/2",
+      "nature": "-",
+      "electric": "1/2",
+      "mental": "-",
+      "digital": "-",
+      "melee": "2",
+      "crystal": "1/2",
+      "toxic": "1/4"
+    }
+  },
+  {
+    "trait": "Cobweb",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "2",
+      "earth": "-",
+      "water": "-",
+      "fire": "1/2",
+      "nature": "-",
+      "electric": "1/2",
+      "mental": "-",
+      "digital": "-",
+      "melee": "2",
+      "crystal": "1/2",
+      "toxic": "1/4"
+    }
+  },
+  {
+    "trait": "Synergy Adept",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "1/2",
+      "water": "1/2",
+      "fire": "1/2",
+      "nature": "2",
+      "electric": "2",
+      "mental": "-",
+      "digital": "-",
+      "melee": "-",
+      "crystal": "-",
+      "toxic": "2"
+    }
+  },
+  {
+    "trait": "Iridescence",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "2",
+      "water": "2",
+      "fire": "2",
+      "nature": "1/2",
+      "electric": "1/2",
+      "mental": "-",
+      "digital": "-",
+      "melee": "-",
+      "crystal": "-",
+      "toxic": "1/2"
+    }
+  },
+  {
+    "trait": "Synergy Adept",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "1/2",
+      "water": "1/2",
+      "fire": "1/2",
+      "nature": "2",
+      "electric": "2",
+      "mental": "2",
+      "digital": "-",
+      "melee": "-",
+      "crystal": "-",
+      "toxic": "2"
+    }
+  },
+  {
+    "trait": "Iridescence",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "2",
+      "water": "2",
+      "fire": "2",
+      "nature": "1/2",
+      "electric": "1/2",
+      "mental": "1/2",
+      "digital": "-",
+      "melee": "-",
+      "crystal": "-",
+      "toxic": "1/2"
+    }
+  },
+  {
+    "trait": "Synergy Adept",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "1/2",
+      "earth": "1/4",
+      "water": "1/2",
+      "fire": "1/2",
+      "nature": "2",
+      "electric": "4",
+      "mental": "-",
+      "digital": "-",
+      "melee": "-",
+      "crystal": "-",
+      "toxic": "2"
+    }
+  },
+  {
+    "trait": "Iridescence",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "2",
+      "earth": "4",
+      "water": "2",
+      "fire": "2",
+      "nature": "1/2",
+      "electric": "1/4",
+      "mental": "-",
+      "digital": "-",
+      "melee": "-",
+      "crystal": "-",
+      "toxic": "1/2"
+    }
+  },
+  {
+    "trait": "Synergy Adept",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "1/2",
+      "water": "-",
+      "fire": "1/4",
+      "nature": "4",
+      "electric": "-",
+      "mental": "-",
+      "digital": "-",
+      "melee": "2",
+      "crystal": "1/2",
+      "toxic": "-"
+    }
+  },
+  {
+    "trait": "Iridescence",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "2",
+      "water": "-",
+      "fire": "4",
+      "nature": "1/4",
+      "electric": "-",
+      "mental": "-",
+      "digital": "-",
+      "melee": "1/2",
+      "crystal": "2",
+      "toxic": "-"
+    }
+  },
+  {
+    "trait": "Synergy Adept",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "-",
+      "water": "-",
+      "fire": "1/4",
+      "nature": "-",
+      "electric": "2",
+      "mental": "-",
+      "digital": "-",
+      "melee": "-",
+      "crystal": "1/2",
+      "toxic": "2"
+    }
+  },
+  {
+    "trait": "Iridescence",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "-",
+      "water": "-",
+      "fire": "4",
+      "nature": "-",
+      "electric": "1/2",
+      "mental": "-",
+      "digital": "-",
+      "melee": "-",
+      "crystal": "2",
+      "toxic": "1/2"
+    }
+  },
+  {
+    "trait": "Synergy Adept",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "1/4",
+      "water": "1/4",
+      "fire": "-",
+      "nature": "-",
+      "electric": "-",
+      "mental": "-",
+      "digital": "-",
+      "melee": "-",
+      "crystal": "-",
+      "toxic": "4"
+    }
+  },
+  {
+    "trait": "Iridescence",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "4",
+      "water": "4",
+      "fire": "-",
+      "nature": "-",
+      "electric": "-",
+      "mental": "-",
+      "digital": "-",
+      "melee": "-",
+      "crystal": "-",
+      "toxic": "1/4"
+    }
+  },
+  {
+    "trait": "Synergy Adept",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "1/2",
+      "earth": "-",
+      "water": "1/2",
+      "fire": "1/2",
+      "nature": "2",
+      "electric": "-",
+      "mental": "-",
+      "digital": "-",
+      "melee": "-",
+      "crystal": "2",
+      "toxic": "2"
+    }
+  },
+  {
+    "trait": "Iridescence",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "2",
+      "earth": "-",
+      "water": "2",
+      "fire": "2",
+      "nature": "1/2",
+      "electric": "-",
+      "mental": "-",
+      "digital": "-",
+      "melee": "-",
+      "crystal": "1/2",
+      "toxic": "1/2"
+    }
+  },
+  {
+    "trait": "Synergy Adept",
+    "matchupMap": {
+      "neutral": "1/2",
+      "wind": "-",
+      "earth": "1/2",
+      "water": "1/2",
+      "fire": "1/2",
+      "nature": "2",
+      "electric": "4",
+      "mental": "-",
+      "digital": "2",
+      "melee": "1/2",
+      "crystal": "2",
+      "toxic": "2"
+    }
+  },
+  {
+    "trait": "Iridescence",
+    "matchupMap": {
+      "neutral": "2",
+      "wind": "-",
+      "earth": "2",
+      "water": "2",
+      "fire": "2",
+      "nature": "1/2",
+      "electric": "1/4",
+      "mental": "-",
+      "digital": "1/2",
+      "melee": "2",
+      "crystal": "1/2",
+      "toxic": "1/2"
+    }
+  },
+  {
+    "trait": "Synergy Adept",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "1/2",
+      "water": "-",
+      "fire": "1/2",
+      "nature": "2",
+      "electric": "4",
+      "mental": "-",
+      "digital": "2",
+      "melee": "-",
+      "crystal": "-",
+      "toxic": "-"
+    }
+  },
+  {
+    "trait": "Iridescence",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "2",
+      "water": "-",
+      "fire": "2",
+      "nature": "1/2",
+      "electric": "1/4",
+      "mental": "-",
+      "digital": "1/2",
+      "melee": "-",
+      "crystal": "-",
+      "toxic": "-"
+    }
+  },
+  {
+    "trait": "Synergy Adept",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "1/2",
+      "water": "1/2",
+      "fire": "1/2",
+      "nature": "2",
+      "electric": "2",
+      "mental": "2",
+      "digital": "2",
+      "melee": "1/2",
+      "crystal": "-",
+      "toxic": "2"
+    }
+  },
+  {
+    "trait": "Iridescence",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "2",
+      "water": "2",
+      "fire": "2",
+      "nature": "1/2",
+      "electric": "1/2",
+      "mental": "1/2",
+      "digital": "1/2",
+      "melee": "2",
+      "crystal": "-",
+      "toxic": "1/2"
+    }
+  },
+  {
+    "trait": "Synergy Adept",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "-",
+      "water": "1/2",
+      "fire": "-",
+      "nature": "2",
+      "electric": "-",
+      "mental": "1/2",
+      "digital": "-",
+      "melee": "2",
+      "crystal": "-",
+      "toxic": "-"
+    }
+  },
+  {
+    "trait": "Iridescence",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "-",
+      "water": "2",
+      "fire": "-",
+      "nature": "1/2",
+      "electric": "-",
+      "mental": "2",
+      "digital": "-",
+      "melee": "1/2",
+      "crystal": "-",
+      "toxic": "-"
+    }
+  },
+  {
+    "trait": "Synergy Adept",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "2",
+      "earth": "1/2",
+      "water": "1/4",
+      "fire": "1/2",
+      "nature": "-",
+      "electric": "2",
+      "mental": "-",
+      "digital": "-",
+      "melee": "-",
+      "crystal": "-",
+      "toxic": "-"
+    }
+  },
+  {
+    "trait": "Iridescence",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "1/2",
+      "earth": "2",
+      "water": "4",
+      "fire": "2",
+      "nature": "-",
+      "electric": "1/2",
+      "mental": "-",
+      "digital": "-",
+      "melee": "-",
+      "crystal": "-",
+      "toxic": "-"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "1/2",
+      "water": "-",
+      "fire": "-",
+      "nature": "-",
+      "electric": "1/4",
+      "mental": "-",
+      "digital": "-",
+      "melee": "2",
+      "crystal": "1/2",
+      "toxic": "-"
+    }
+  },
+  {
+    "trait": "Hover",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "1/2",
+      "earth": "1/4",
+      "water": "2",
+      "fire": "-",
+      "nature": "-",
+      "electric": "4",
+      "mental": "-",
+      "digital": "2",
+      "melee": "-",
+      "crystal": "-",
+      "toxic": "1/2"
+    }
+  },
+  {
+    "trait": "Going Away Gift",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "1/2",
+      "earth": "1/2",
+      "water": "2",
+      "fire": "-",
+      "nature": "-",
+      "electric": "4",
+      "mental": "-",
+      "digital": "2",
+      "melee": "-",
+      "crystal": "-",
+      "toxic": "1/2"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "2",
+      "water": "2",
+      "fire": "2",
+      "nature": "-",
+      "electric": "-",
+      "mental": "1/2",
+      "digital": "2",
+      "melee": "2",
+      "crystal": "-",
+      "toxic": "1/4"
+    }
+  },
+  {
+    "trait": "Mithridatism",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "1/2",
+      "water": "-",
+      "fire": "2",
+      "nature": "1/2",
+      "electric": "-",
+      "mental": "-",
+      "digital": "2",
+      "melee": "-",
+      "crystal": "-",
+      "toxic": "4/5"
+    }
+  },
+  {
+    "trait": "Body Stretch",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "1/2",
+      "water": "-",
+      "fire": "2",
+      "nature": "1/2",
+      "electric": "-",
+      "mental": "-",
+      "digital": "2",
+      "melee": "-",
+      "crystal": "-",
+      "toxic": "-"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "1/2",
+      "water": "-",
+      "fire": "2",
+      "nature": "1/2",
+      "electric": "-",
+      "mental": "-",
+      "digital": "2",
+      "melee": "-",
+      "crystal": "-",
+      "toxic": "-"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "2",
+      "earth": "2",
+      "water": "-",
+      "fire": "1/2",
+      "nature": "1/4",
+      "electric": "-",
+      "mental": "-",
+      "digital": "-",
+      "melee": "-",
+      "crystal": "1/2",
+      "toxic": "1/2"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "1/2",
+      "wind": "-",
+      "earth": "-",
+      "water": "-",
+      "fire": "-",
+      "nature": "-",
+      "electric": "2",
+      "mental": "-",
+      "digital": "2",
+      "melee": "1/2",
+      "crystal": "2",
+      "toxic": "-"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "1/2",
+      "wind": "1/2",
+      "earth": "2",
+      "water": "-",
+      "fire": "-",
+      "nature": "-",
+      "electric": "-",
+      "mental": "-",
+      "digital": "2",
+      "melee": "1/2",
+      "crystal": "4",
+      "toxic": "-"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "1/2",
+      "wind": "1/2",
+      "earth": "2",
+      "water": "-",
+      "fire": "-",
+      "nature": "-",
+      "electric": "-",
+      "mental": "-",
+      "digital": "2",
+      "melee": "1/2",
+      "crystal": "4",
+      "toxic": "-"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "1/2",
+      "wind": "-",
+      "earth": "-",
+      "water": "-",
+      "fire": "-",
+      "nature": "-",
+      "electric": "2",
+      "mental": "2",
+      "digital": "4",
+      "melee": "1/4",
+      "crystal": "2",
+      "toxic": "-"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "-",
+      "water": "-",
+      "fire": "-",
+      "nature": "-",
+      "electric": "-",
+      "mental": "2",
+      "digital": "-",
+      "melee": "-",
+      "crystal": "-",
+      "toxic": "-"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "-",
+      "water": "-",
+      "fire": "-",
+      "nature": "-",
+      "electric": "-",
+      "mental": "4",
+      "digital": "2",
+      "melee": "1/2",
+      "crystal": "-",
+      "toxic": "-"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "1/2",
+      "wind": "-",
+      "earth": "-",
+      "water": "-",
+      "fire": "-",
+      "nature": "-",
+      "electric": "2",
+      "mental": "2",
+      "digital": "2",
+      "melee": "1/2",
+      "crystal": "2",
+      "toxic": "-"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "-",
+      "water": "1/2",
+      "fire": "4",
+      "nature": "1/2",
+      "electric": "1/4",
+      "mental": "1/2",
+      "digital": "-",
+      "melee": "2",
+      "crystal": "-",
+      "toxic": "-"
+    }
+  },
+  {
+    "trait": "Digi-Protection",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "-",
+      "water": "2",
+      "fire": "-",
+      "nature": "-",
+      "electric": "2",
+      "mental": "2",
+      "digital": "1/2",
+      "melee": "-",
+      "crystal": "-",
+      "toxic": "1/2"
+    }
+  },
+  {
+    "trait": "Adaptive",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "-",
+      "water": "2",
+      "fire": "-",
+      "nature": "-",
+      "electric": "2",
+      "mental": "2",
+      "digital": "2",
+      "melee": "-",
+      "crystal": "-",
+      "toxic": "1/2"
+    }
+  },
+  {
+    "trait": "Adaptive",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "1/2",
+      "earth": "1/2",
+      "water": "-",
+      "fire": "-",
+      "nature": "-",
+      "electric": "2",
+      "mental": "2",
+      "digital": "-",
+      "melee": "-",
+      "crystal": "-",
+      "toxic": "-"
+    }
+  },
+  {
+    "trait": "Adaptive",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "-",
+      "water": "2",
+      "fire": "1/2",
+      "nature": "2",
+      "electric": "1/2",
+      "mental": "2",
+      "digital": "-",
+      "melee": "2",
+      "crystal": "1/2",
+      "toxic": "1/2"
+    }
+  },
+  {
+    "trait": "Adaptive",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "1/2",
+      "water": "1/2",
+      "fire": "1/2",
+      "nature": "2",
+      "electric": "2",
+      "mental": "2",
+      "digital": "-",
+      "melee": "-",
+      "crystal": "-",
+      "toxic": "2"
+    }
+  },
+  {
+    "trait": "Adaptive",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "2",
+      "water": "2",
+      "fire": "1/2",
+      "nature": "1/2",
+      "electric": "-",
+      "mental": "2",
+      "digital": "-",
+      "melee": "-",
+      "crystal": "1/2",
+      "toxic": "-"
+    }
+  },
+  {
+    "trait": "Adaptive",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "1/2",
+      "water": "1/2",
+      "fire": "2",
+      "nature": "1/2",
+      "electric": "1/2",
+      "mental": "2",
+      "digital": "-",
+      "melee": "-",
+      "crystal": "-",
+      "toxic": "2"
+    }
+  },
+  {
+    "trait": "Adaptive",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "1/2",
+      "earth": "2",
+      "water": "-",
+      "fire": "-",
+      "nature": "-",
+      "electric": "1/2",
+      "mental": "2",
+      "digital": "-",
+      "melee": "-",
+      "crystal": "2",
+      "toxic": "-"
+    }
+  },
+  {
+    "trait": "Adaptive",
+    "matchupMap": {
+      "neutral": "1/2",
+      "wind": "-",
+      "earth": "-",
+      "water": "-",
+      "fire": "-",
+      "nature": "-",
+      "electric": "2",
+      "mental": "2",
+      "digital": "2",
+      "melee": "1/2",
+      "crystal": "2",
+      "toxic": "-"
+    }
+  },
+  {
+    "trait": "Adaptive",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "-",
+      "water": "-",
+      "fire": "-",
+      "nature": "-",
+      "electric": "-",
+      "mental": "4",
+      "digital": "2",
+      "melee": "1/2",
+      "crystal": "-",
+      "toxic": "-"
+    }
+  },
+  {
+    "trait": "Adaptive",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "2",
+      "water": "-",
+      "fire": "2",
+      "nature": "-",
+      "electric": "1/2",
+      "mental": "-",
+      "digital": "-",
+      "melee": "2",
+      "crystal": "-",
+      "toxic": "1/2"
+    }
+  },
+  {
+    "trait": "Adaptive",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "2",
+      "earth": "-",
+      "water": "1/2",
+      "fire": "-",
+      "nature": "1/2",
+      "electric": "-",
+      "mental": "2",
+      "digital": "-",
+      "melee": "-",
+      "crystal": "-",
+      "toxic": "1/2"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "-",
+      "water": "2",
+      "fire": "-",
+      "nature": "-",
+      "electric": "2",
+      "mental": "2",
+      "digital": "4",
+      "melee": "1/2",
+      "crystal": "-",
+      "toxic": "1/2"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "-",
+      "water": "2",
+      "fire": "-",
+      "nature": "-",
+      "electric": "2",
+      "mental": "2",
+      "digital": "4",
+      "melee": "1/2",
+      "crystal": "-",
+      "toxic": "1/2"
+    }
+  },
+  {
+    "trait": "Trauma",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "4",
+      "water": "2",
+      "fire": "-",
+      "nature": "1/2",
+      "electric": "1/2",
+      "mental": "1/2",
+      "digital": "-",
+      "melee": "2",
+      "crystal": "1/2",
+      "toxic": "1/2"
+    }
+  },
+  {
+    "trait": "Flawed Crystal",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "4",
+      "water": "2",
+      "fire": "-",
+      "nature": "1/2",
+      "electric": "3/4",
+      "mental": "3/4",
+      "digital": "-",
+      "melee": "2",
+      "crystal": "1/2",
+      "toxic": "3/4"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "4",
+      "water": "2",
+      "fire": "-",
+      "nature": "1/2",
+      "electric": "1/2",
+      "mental": "1/2",
+      "digital": "-",
+      "melee": "2",
+      "crystal": "1/2",
+      "toxic": "1/2"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "-",
+      "earth": "-",
+      "water": "-",
+      "fire": "-",
+      "nature": "1/4",
+      "electric": "1/2",
+      "mental": "-",
+      "digital": "-",
+      "melee": "-",
+      "crystal": "1/2",
+      "toxic": "2"
+    }
+  },
+  {
+    "trait": "",
+    "matchupMap": {
+      "neutral": "-",
+      "wind": "1/2",
+      "earth": "2",
+      "water": "-",
+      "fire": "-",
+      "nature": "-",
+      "electric": "1/2",
+      "mental": "-",
+      "digital": "-",
+      "melee": "-",
+      "crystal": "2",
+      "toxic": "-"
+    }
+  }
+]

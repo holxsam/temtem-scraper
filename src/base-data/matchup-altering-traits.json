@@ -1,0 +1,274 @@
+[
+  {
+    "trait": "Attack<T>*",
+    "modifier": {
+      "neutral": 1,
+      "wind": 1,
+      "earth": 1,
+      "water": 1,
+      "fire": 1,
+      "nature": 1,
+      "electric": 1,
+      "mental": 1,
+      "digital": 1,
+      "melee": 1,
+      "crystal": 1,
+      "toxic": 1
+    }
+  },
+  {
+    "trait": "Mithridatism",
+    "modifier": {
+      "neutral": 1,
+      "wind": 1,
+      "earth": 1,
+      "water": 1,
+      "fire": 1,
+      "nature": 1,
+      "electric": 1,
+      "mental": 1,
+      "digital": 1,
+      "melee": 1,
+      "crystal": 1,
+      "toxic": 0.8
+    }
+  },
+  {
+    "trait": "Thick Skin",
+    "modifier": {
+      "neutral": 1,
+      "wind": 0.5,
+      "earth": 1,
+      "water": 1,
+      "fire": 1,
+      "nature": 1,
+      "electric": 1,
+      "mental": 1,
+      "digital": 1,
+      "melee": 1,
+      "crystal": 1,
+      "toxic": 1
+    }
+  },
+  {
+    "trait": "Punch Bag",
+    "modifier": {
+      "neutral": 1,
+      "wind": 1,
+      "earth": 1,
+      "water": 1,
+      "fire": 1,
+      "nature": 1,
+      "electric": 1,
+      "mental": 1,
+      "digital": 1,
+      "melee": 0.7,
+      "crystal": 1,
+      "toxic": 1
+    }
+  },
+  {
+    "trait": "Hover",
+    "modifier": {
+      "neutral": 1,
+      "wind": 1,
+      "earth": 0.5,
+      "water": 1,
+      "fire": 1,
+      "nature": 1,
+      "electric": 1,
+      "mental": 1,
+      "digital": 1,
+      "melee": 1,
+      "crystal": 1,
+      "toxic": 1
+    }
+  },
+  {
+    "trait": "Electric Synthesize",
+    "modifier": {
+      "neutral": 1,
+      "wind": 1,
+      "earth": 1,
+      "water": 1,
+      "fire": 1,
+      "nature": 1,
+      "electric": 0,
+      "mental": 1,
+      "digital": 1,
+      "melee": 1,
+      "crystal": 1,
+      "toxic": 1
+    }
+  },
+  {
+    "trait": "Mucous",
+    "modifier": {
+      "neutral": 1,
+      "wind": 1,
+      "earth": 1,
+      "water": 1,
+      "fire": 1,
+      "nature": 1,
+      "electric": 0.7,
+      "mental": 1,
+      "digital": 1,
+      "melee": 1,
+      "crystal": 1,
+      "toxic": 0.7
+    }
+  },
+  {
+    "trait": "Immunity",
+    "modifier": {
+      "neutral": 1,
+      "wind": 1,
+      "earth": 1,
+      "water": 1,
+      "fire": 1,
+      "nature": 1,
+      "electric": 1,
+      "mental": 1,
+      "digital": 1,
+      "melee": 1,
+      "crystal": 1,
+      "toxic": 0
+    }
+  },
+  {
+    "trait": "Strong Liver",
+    "modifier": {
+      "neutral": 1,
+      "wind": 1,
+      "earth": 1,
+      "water": 1,
+      "fire": 1,
+      "nature": 1,
+      "electric": 1,
+      "mental": 1,
+      "digital": 1,
+      "melee": 1,
+      "crystal": 1,
+      "toxic": 0
+    }
+  },
+  {
+    "trait": "Water Synthesizer",
+    "modifier": {
+      "neutral": 1,
+      "wind": 1,
+      "earth": 1,
+      "water": 0,
+      "fire": 1,
+      "nature": 1,
+      "electric": 1,
+      "mental": 1,
+      "digital": 1,
+      "melee": 1,
+      "crystal": 1,
+      "toxic": 1
+    }
+  },
+  {
+    "trait": "Skull Helmet",
+    "modifier": {
+      "neutral": 1,
+      "wind": 1,
+      "earth": 1,
+      "water": 1,
+      "fire": 1,
+      "nature": 1,
+      "electric": 1,
+      "mental": 0.75,
+      "digital": 1,
+      "melee": 0.75,
+      "crystal": 1,
+      "toxic": 1
+    }
+  },
+  {
+    "trait": "Book Lungs",
+    "modifier": {
+      "neutral": 1,
+      "wind": 1,
+      "earth": 1,
+      "water": 0.5,
+      "fire": 1,
+      "nature": 1,
+      "electric": 1,
+      "mental": 1,
+      "digital": 1,
+      "melee": 1,
+      "crystal": 1,
+      "toxic": 1
+    }
+  },
+  {
+    "trait": "Iridescence*",
+    "modifier": {
+      "neutral": 1,
+      "wind": 1,
+      "earth": 1,
+      "water": 1,
+      "fire": 1,
+      "nature": 1,
+      "electric": 1,
+      "mental": 1,
+      "digital": 1,
+      "melee": 1,
+      "crystal": 1,
+      "toxic": 1
+    }
+  },
+  {
+    "trait": "Digi-Protection",
+    "modifier": {
+      "neutral": 1,
+      "wind": 1,
+      "earth": 1,
+      "water": 1,
+      "fire": 1,
+      "nature": 1,
+      "electric": 1,
+      "mental": 1,
+      "digital": 0.25,
+      "melee": 1,
+      "crystal": 1,
+      "toxic": 1
+    }
+  },
+  {
+    "trait": "Adaptive*",
+    "modifier": {
+      "neutral": 1,
+      "wind": 1,
+      "earth": 1,
+      "water": 1,
+      "fire": 1,
+      "nature": 1,
+      "electric": 1,
+      "mental": 1,
+      "digital": 1,
+      "melee": 1,
+      "crystal": 1,
+      "toxic": 1
+    }
+  },
+  {
+    "trait": "Flawed Crystal",
+    "modifier": {
+      "neutral": 1,
+      "wind": 1,
+      "earth": 1,
+      "water": 1,
+      "fire": 1,
+      "nature": 1,
+      "electric": 1.5,
+      "mental": 1.5,
+      "digital": 1,
+      "melee": 1,
+      "crystal": 1,
+      "toxic": 1.5
+    }
+  }
+]
