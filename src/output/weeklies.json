@@ -1,0 +1,60 @@
+{
+  "saipark": {
+    "t1Data": {
+      "temtem": "Hoglip",
+      "area": "Caves",
+      "rate": "60",
+      "lumaRate": "1",
+      "minSV": "39",
+      "eggTech": "10",
+      "availability": "31 Oct - 6 Nov 2022"
+    },
+    "t2Data": {
+      "temtem": "Nessla",
+      "area": "Water",
+      "rate": "55",
+      "lumaRate": "1",
+      "minSV": "30",
+      "eggTech": "13",
+      "availability": "31 Oct - 6 Nov 2022"
+    },
+    "date": {
+      "year": "2022",
+      "startDate": { "day": "31", "month": "october" },
+      "endDate": { "day": "6", "month": "november" }
+    }
+  },
+  "freetem": {
+    "date": {
+      "year": "2022",
+      "startDate": { "day": "31", "month": "october" },
+      "endDate": { "day": "6", "month": "november" }
+    },
+    "rewards": [
+      {
+        "releases": "50",
+        "reward": {
+          "quantity": "1",
+          "type": "WishYouWell Coin",
+          "imageUrl": ""
+        }
+      },
+      {
+        "releases": "100",
+        "reward": { "quantity": "4", "type": "Learning Aid", "imageUrl": "" }
+      },
+      {
+        "releases": "150",
+        "reward": { "quantity": "5", "type": "Learning Aid", "imageUrl": "" }
+      },
+      {
+        "releases": "200",
+        "reward": {
+          "quantity": "2",
+          "type": "Telomere Hotfix - STA",
+          "imageUrl": ""
+        }
+      }
+    ]
+  }
+}
