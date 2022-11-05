@@ -1,32 +1,60 @@
 {
   "saipark": {
-    "date": "31 Oct - 6 Nov 2022",
-    "temOne": {
-      "name": "Hoglip",
+    "t1Data": {
+      "temtem": "Hoglip",
       "area": "Caves",
-      "encounterRate": "60%",
-      "lumaRate": "x1",
-      "minSv": "39",
-      "eggTech": "10%",
-      "date": "31 Oct - 6 Nov 2022"
+      "rate": "60",
+      "lumaRate": "1",
+      "minSV": "39",
+      "eggTech": "10",
+      "availability": "31 Oct - 6 Nov 2022"
     },
-    "temTwo": {
-      "name": "Nessla",
+    "t2Data": {
+      "temtem": "Nessla",
       "area": "Water",
-      "encounterRate": "55%",
-      "lumaRate": "x1",
-      "minSv": "30",
-      "eggTech": "13%",
-      "date": "31 Oct - 6 Nov 2022"
+      "rate": "55",
+      "lumaRate": "1",
+      "minSV": "30",
+      "eggTech": "13",
+      "availability": "31 Oct - 6 Nov 2022"
+    },
+    "date": {
+      "year": "2022",
+      "startDate": { "day": "31", "month": "october" },
+      "endDate": { "day": "6", "month": "november" }
     }
   },
   "freetem": {
-    "date": "31 Oct - 6 Nov 2022",
+    "date": {
+      "year": "2022",
+      "startDate": { "day": "31", "month": "october" },
+      "endDate": { "day": "6", "month": "november" }
+    },
     "rewards": [
-      { "releases": "50 releases", "reward": "1x WishYouWell Coin" },
-      { "releases": "100 releases", "reward": "4x Learning Aid" },
-      { "releases": "150 releases", "reward": "5x Learning Aid" },
-      { "releases": "200 releases", "reward": "2x Telomere Hotfix - STA" }
+      {
+        "releases": "50",
+        "reward": {
+          "quantity": "1",
+          "type": "WishYouWell Coin",
+          "imageUrl": ""
+        }
+      },
+      {
+        "releases": "100",
+        "reward": { "quantity": "4", "type": "Learning Aid", "imageUrl": "" }
+      },
+      {
+        "releases": "150",
+        "reward": { "quantity": "5", "type": "Learning Aid", "imageUrl": "" }
+      },
+      {
+        "releases": "200",
+        "reward": {
+          "quantity": "2",
+          "type": "Telomere Hotfix - STA",
+          "imageUrl": ""
+        }
+      }
     ]
   }
 }

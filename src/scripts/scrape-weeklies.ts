@@ -1,35 +1,73 @@
 import puppeteer, { Browser, Page } from "puppeteer";
 import { clean } from "../utils/formatter";
-
-// freetem selectors
-// https://temtem.wiki.gg/wiki/FreeTem!_Organization
-// date: h3:nth-child(2)
-// table: table#rewards-curr-table
-// pictures: table#rewards-curr-table > tbody > tr:nth-child(1) > td > a::attr(href)
-// rewards: table#rewards-curr-table > tbody > tr:nth-child(2) > td.textContent
-// table#rewards-curr-table > tbody > tr:nth-child(2) > td > a
-// releases: table#rewards-curr-table > tbody > tr:nth-child(2) > td > p
-
-interface Freetem {
-  date: string;
-  rewards: { releases: string; reward: string }[];
+interface Date {
+  day: string;
+  month: string;
 }
-
+interface Duration {
+  year: string;
+  startDate: Date;
+  endDate: Date;
+}
+interface Freetem {
+  date: Duration;
+  rewards: {
+    releases: string;
+    reward: { quantity: string; type: string; imageUrl: string };
+  }[];
+}
+interface SaiparkData {
+  [key: string]: string;
+}
 interface Saipark {
-  date: string;
-  temOne: {
-    name: string;
-    area: string;
-    encounterRate: string;
-    lumaRate: string;
-    minSv: string;
-    eggTech: string;
-    date: string;
-  };
+  [key: string]: SaiparkData;
 }
 
 const freetemUrl = "https://temtem.wiki.gg/wiki/FreeTem!_Organization";
 const saiparkUrl = "https://temtem.wiki.gg/wiki/Saipark#Area_1-0";
+
+const cleanTemStrNum = (str: string): string => {
+  const cleanStr = str.replace("%", "");
+  return cleanStr.length < 4 && /^[A-Za-z0-9]*$/.test(cleanStr)
+    ? cleanStr.replace("x", "")
+    : cleanStr;
+};
+
+const cleanMonth = (str: string) => {
+  const month = str.toLowerCase();
+  const monthMatch: { [key: string]: string } = {
+    jan: "january",
+    feb: "february",
+    mar: "march",
+    apr: "april",
+    may: "may",
+    jun: "june",
+    jul: "july",
+    aug: "august",
+    sep: "september",
+    oct: "october",
+    nov: "november",
+    dec: "december",
+  };
+  return month in monthMatch ? monthMatch[month] : "n/a";
+};
+
+const cleanDate = (str: string) => {
+  const dateArr = str.replace("- ", "").split(" ");
+  const cleanDate = {
+    year: dateArr[4],
+    startDate: {
+      day: dateArr[0],
+      month: cleanMonth(dateArr[1]),
+    },
+    endDate: {
+      day: dateArr[2],
+      month: cleanMonth(dateArr[3]),
+    },
+  };
+
+  return cleanDate;
+};
 
 export const scrapeFreetem = async (
   browser: Browser,
@@ -42,13 +80,20 @@ export const scrapeFreetem = async (
 
     const rewardsSelector =
       "table#rewards-curr-table > tbody > tr:nth-child(2) > td ";
+
     const rewards = await page.$$eval(rewardsSelector, (rewardsTable) => {
       return rewardsTable.map((el) => {
         const releases = el.querySelector("p")?.textContent ?? "";
         const rewardsModifier = el.childNodes[0].textContent;
         const rewardsType = el.querySelector("a")?.textContent;
-        const reward = rewardsModifier?.trim() + " " + rewardsType;
-        return { releases, reward };
+        return {
+          releases,
+          reward: {
+            quantity: rewardsModifier,
+            type: rewardsType,
+            imageUrl: "",
+          },
+        };
       });
     });
 
@@ -60,11 +105,15 @@ export const scrapeFreetem = async (
     );
 
     const data = {
-      date: clean(date),
+      date: cleanDate(clean(date)),
       rewards: rewards.map((el) => {
         return {
-          releases: clean(el.releases),
-          reward: clean(el.reward),
+          releases: clean(el.releases.replace("releases", "")),
+          reward: {
+            quantity: cleanTemStrNum(clean(el.reward.quantity)),
+            type: clean(el.reward.type),
+            imageUrl: el.reward.imageUrl,
+          },
         };
       }),
     };
@@ -83,62 +132,56 @@ export const scrapeSaipark = async (
     await page.goto(saiparkUrl, { waitUntil: "load", timeout: 0 });
     await page.waitForSelector("table#saipark-featured-temtem-history");
 
-    const temOneSelector =
-      "table#saipark-featured-temtem-history > tbody > tr:nth-child(1)";
-    const temTwoSelector =
-      "table#saipark-featured-temtem-history > tbody > tr:nth-child(2)";
+    const temSelector = "table#saipark-featured-temtem-history > tbody";
+    const headerSelector =
+      "table#saipark-featured-temtem-history > thead > tr > th";
 
-    const temOne = await page.$eval(temOneSelector, (el) => {
-      const name =
-        el.querySelector("td:nth-child(1) > a")?.textContent ?? "N/A";
-      const area = el.querySelector("td:nth-child(2)")?.textContent ?? "N/A";
-      const encounterRate =
-        el.querySelector("td:nth-child(3)")?.textContent ?? "N/A";
-      const lumaRate =
-        el.querySelector("td:nth-child(4)")?.textContent ?? "N/A";
-      const minSv = el.querySelector("td:nth-child(5)")?.textContent ?? "N/A";
-      const eggTech = el.querySelector("td:nth-child(6)")?.textContent ?? "N/A";
-      const date = el.querySelector("td:nth-child(7)")?.textContent ?? "N/A";
-      return { name, area, encounterRate, lumaRate, minSv, eggTech, date };
+    const headerInfo: (string | null)[] = await page.$$eval(
+      headerSelector,
+      (els) => {
+        return els.map((el) => {
+          return el.textContent;
+        });
+      }
+    );
+
+    headerInfo.forEach((header, index) => {
+      const cleanHeader = clean(header).replace(".", "");
+      headerInfo[index] = cleanHeader[0].toLowerCase() + cleanHeader.slice(1);
     });
 
-    const temTwo = await page.$eval(temTwoSelector, (el) => {
-      const name =
-        el.querySelector("td:nth-child(1) > a")?.textContent ?? "N/A";
-      const area = el.querySelector("td:nth-child(2)")?.textContent ?? "N/A";
-      const encounterRate =
-        el.querySelector("td:nth-child(3)")?.textContent ?? "N/A";
-      const lumaRate =
-        el.querySelector("td:nth-child(4)")?.textContent ?? "N/A";
-      const minSv = el.querySelector("td:nth-child(5)")?.textContent ?? "N/A";
-      const eggTech = el.querySelector("td:nth-child(6)")?.textContent ?? "N/A";
-      const date = el.querySelector("td:nth-child(7)")?.textContent ?? "N/A";
-      return { name, area, encounterRate, lumaRate, minSv, eggTech, date };
+    const temData = await page.$eval(
+      temSelector,
+      (el, headerInfo) => {
+        const t1Selector = "tr:nth-child(1)";
+        const t2Selector = "tr:nth-child(2)";
+
+        const t1Data: SaiparkData = {};
+        const t2Data: SaiparkData = {};
+
+        headerInfo.forEach((header, index) => {
+          t1Data[header as string] =
+            el.querySelector(t1Selector + ` > td:nth-child(${index + 1})`)
+              ?.textContent ?? "";
+          t2Data[header as string] =
+            el.querySelector(t2Selector + ` > td:nth-child(${index + 1})`)
+              ?.textContent ?? "";
+        });
+
+        return { t1Data, t2Data };
+      },
+      headerInfo
+    );
+
+    headerInfo.forEach((header) => {
+      temData.t1Data[header as string] = cleanTemStrNum(
+        clean(temData.t1Data[header as string])
+      );
+      temData.t2Data[header as string] = cleanTemStrNum(
+        clean(temData.t2Data[header as string])
+      );
     });
-
-    const data = {
-      date: clean(temOne.date),
-      temOne: {
-        name: clean(temOne.name),
-        area: clean(temOne.area),
-        encounterRate: clean(temOne.encounterRate),
-        lumaRate: clean(temOne.lumaRate),
-        minSv: clean(temOne.minSv),
-        eggTech: clean(temOne.eggTech),
-        date: clean(temOne.date),
-      },
-      temTwo: {
-        name: clean(temTwo.name),
-        area: clean(temTwo.area),
-        encounterRate: clean(temTwo.encounterRate),
-        lumaRate: clean(temTwo.lumaRate),
-        minSv: clean(temTwo.minSv),
-        eggTech: clean(temTwo.eggTech),
-        date: clean(temTwo.date),
-      },
-    };
-
-    resolve(data);
+    resolve(temData);
     await page.close();
   });
 };
@@ -150,5 +193,8 @@ export const scrapeWeeklies = async () => {
 
   await browser.close();
 
-  return { saipark, freetem };
+  return {
+    saipark: { ...saipark, date: cleanDate(saipark.t1Data.availability) },
+    freetem,
+  };
 };
